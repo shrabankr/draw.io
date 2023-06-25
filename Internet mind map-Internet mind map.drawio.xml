@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2023-06-25T01:29:25.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8FMAP94X_oJMJyPRqlDx" version="21.3.8" type="device">
+  <diagram name="Internet mind map" id="YQ4aixg21iMdSrSpkp9l">
+    <mxGraphModel dx="1760" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OF3Vc1VV2zy21H8EAKL--5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="50" width="1600" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-35" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;A collection of web pages which are grouped together and usually connected together in various ways. Often called a &quot;website&quot; or a &quot;site.&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#333333;container=0;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry y="156.89320388349518" width="312.1951219512195" height="176.50485436893206" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-15" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Static Web Page&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;container=0;strokeColor=#333333;" vertex="1" parent="OF3Vc1VV2zy21H8EAKL--5">
+          <mxGeometry y="637.38" width="200" height="62.62" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.138;exitY=1.036;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="OF3Vc1VV2zy21H8EAKL--5" source="y_eoZxEXFhzE_eTlbuua-44" target="k8IYiie5OoWaESRD6Flu-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="78.04878048780489" y="598.1553398058252" as="sourcePoint" />
+            <mxPoint x="48.78048780487805" y="617.7669902912621" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="29.268292682926827" y="529.5145631067962" />
+              <mxPoint x="29.268292682926827" y="598.1553398058252" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-44" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;A web page or webpage is a document, commonly written in HTML, that is viewed in an Internet browser&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#333333;container=0;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry x="39.024390243902445" y="362.81553398058253" width="314.1836259126922" height="117.66990291262137" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-23" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Chat refers to the process of communicating, interacting and/or exchanging messages over the Internet in real-time.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=3;container=0;" vertex="1" parent="OF3Vc1VV2zy21H8EAKL--5">
+          <mxGeometry x="421.9356843249961" y="862.9126213592233" width="363.2748174615504" height="147.0873786407767" as="geometry" />
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-1" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Georgia&quot;&gt;&lt;b style=&quot;&quot;&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=6;gradientColor=default;fontColor=#ffffff;container=0;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry x="716.4828336181452" y="470.6796116504854" width="216.00124281497585" height="98.05825242718447" as="geometry" />
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=4;" parent="OF3Vc1VV2zy21H8EAKL--5" source="y_eoZxEXFhzE_eTlbuua-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="912.8475998135777" y="480.4854368932039" as="sourcePoint" />
+            <mxPoint x="1472.4871834705607" y="441.2621359223301" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040.4846978406088" y="460.873786407767" />
+              <mxPoint x="1109.21236600901" y="402.03883495145635" />
+              <mxPoint x="1207.3947491067267" y="382.4271844660194" />
+              <mxPoint x="1256.4859406555847" y="372.62135922330094" />
+              <mxPoint x="1295.7588938946712" y="372.62135922330094" />
+              <mxPoint x="1364.4865620630726" y="382.4271844660194" />
+              <mxPoint x="1403.9024390243903" y="392.2330097087379" />
+              <mxPoint x="1434.1463414634145" y="411.84466019417476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-10" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;The World Wide Web is also known as the web, WWW or W3. It refers to all the public websites or pages that users can access on their local computers and other devices through the internet.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;strokeColor=#333333;strokeWidth=3;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry x="1268.292682926829" y="441.2621359223301" width="331.7073170731707" height="196.11650485436894" as="geometry" />
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-11" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;World Wide Web (WWW)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#E6E6E6;strokeColor=#10739e;container=0;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry x="991.3951219512196" y="372.62135922330094" width="267.1414634146341" height="88.25242718446603" as="geometry" />
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=4;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="OF3Vc1VV2zy21H8EAKL--5" source="y_eoZxEXFhzE_eTlbuua-1" edge="1" target="y_eoZxEXFhzE_eTlbuua-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="912.8475998135777" y="421.6504854368932" as="sourcePoint" />
+            <mxPoint x="1256.5853658536587" y="715.8252427184466" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040.4846978406088" y="549.126213592233" />
+              <mxPoint x="1138.6670809383254" y="568.7378640776699" />
+              <mxPoint x="1187.7582724871831" y="676.6019417475728" />
+              <mxPoint x="1217.2129874164982" y="706.0194174757282" />
+              <mxPoint x="1256.4859406555847" y="715.8252427184466" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-17" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;URL (Uniform Resource Locator) is a unique identifier used to locate a resource on the Internet. It is also referred to as a web address.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;container=0;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry x="1287.8048780487804" y="686.4077669902913" width="312.1951219512195" height="166.6990291262136" as="geometry" />
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-18" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px; background-color: initial;&quot;&gt;Uniform Resource Locator (URL)&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#E6E6E6;container=0;align=center;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry x="1000" y="558.93" width="239.02" height="78.45" as="geometry" />
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;" parent="OF3Vc1VV2zy21H8EAKL--5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="844.1199316451762" y="470.6796116504854" as="sourcePoint" />
+            <mxPoint x="1200" y="98.05825242718447" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="922.6658381233492" y="264.7572815533981" />
+              <mxPoint x="1001.2117446015222" y="225.5339805825243" />
+              <mxPoint x="1020.8482212210656" y="127.47572815533982" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-24" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Define&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#E6E6E6;strokeColor=#23445d;gradientColor=none;container=0;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry x="922.6658381233492" y="176.50485436893206" width="176.72828957588936" height="78.44660194174759" as="geometry" />
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-29" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Voice-over-Internet protocol (VoIP) is communications technology that allows users to interact by audio through an Internet connection, rather than through an analog connection.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=3;container=0;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry x="204.8780487804878" width="403.6" height="137.28155339805824" as="geometry" />
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;" parent="OF3Vc1VV2zy21H8EAKL--5" target="y_eoZxEXFhzE_eTlbuua-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="755.7557868572316" y="470.6796116504854" as="sourcePoint" />
+            <mxPoint x="343.389777846823" y="254.95145631067965" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="765.5740251670031" y="470.6796116504854" />
+              <mxPoint x="716.4828336181452" y="421.6504854368932" />
+              <mxPoint x="647.7551654497437" y="303.9805825242719" />
+              <mxPoint x="520.1180674227122" y="235.3398058252427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-36" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Website&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeWidth=0;container=0;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry x="520.1180674227122" y="235.3398058252427" width="137.45533633680284" height="68.64077669902912" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Dynamic Web Page&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#FFFFFF;container=0;strokeColor=#333333;" vertex="1" parent="OF3Vc1VV2zy21H8EAKL--5">
+          <mxGeometry x="196.12" y="568.74" width="223.88" height="61.26" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="OF3Vc1VV2zy21H8EAKL--5" source="y_eoZxEXFhzE_eTlbuua-1" target="y_eoZxEXFhzE_eTlbuua-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="824.4834550256329" y="470.6796116504854" as="sourcePoint" />
+            <mxPoint x="608.482212210657" y="78.44660194174759" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="804.8469784060896" y="274.5631067961165" />
+              <mxPoint x="795.0287400963181" y="205.92233009708738" />
+              <mxPoint x="765.5740251670031" y="147.0873786407767" />
+              <mxPoint x="736.1193102376884" y="117.66990291262135" />
+              <mxPoint x="677.2098803790585" y="78.44660194174759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-28" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;VoIP&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#23445d;container=0;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry x="706.6645953083735" y="156.89320388349518" width="147.2735746465745" height="68.64077669902912" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="OF3Vc1VV2zy21H8EAKL--5" source="y_eoZxEXFhzE_eTlbuua-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="657.5734037595151" y="480.4854368932039" as="sourcePoint" />
+            <mxPoint x="353.2080161565947" y="421.6504854368932" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="OF3Vc1VV2zy21H8EAKL--5" source="y_eoZxEXFhzE_eTlbuua-1" target="y_eoZxEXFhzE_eTlbuua-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="716.4828336181452" y="495.19417475728164" as="sourcePoint" />
+            <mxPoint x="304.11682460773653" y="416.747572815534" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520.1180674227122" y="441.2621359223301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_eoZxEXFhzE_eTlbuua-42" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Webpage&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;container=0;" parent="OF3Vc1VV2zy21H8EAKL--5" vertex="1">
+          <mxGeometry x="471.02687587385424" y="421.6504854368932" width="157.0918129563461" height="58.834951456310684" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=0.819;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="OF3Vc1VV2zy21H8EAKL--5" source="y_eoZxEXFhzE_eTlbuua-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245.2073947491067" y="539.3203883495146" as="sourcePoint" />
+            <mxPoint x="313.93506291750816" y="568.7378640776699" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="333.57153953705136" y="509.9029126213593" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-19" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;The Internet is a globally connected network system that facilitates communication and data services through a vast collection of private, public, business, academic, and government networks.&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;strokeWidth=3;container=0;" vertex="1" parent="OF3Vc1VV2zy21H8EAKL--5">
+          <mxGeometry x="1200" width="370" height="196.12" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=4;entryX=0.919;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="OF3Vc1VV2zy21H8EAKL--5" source="y_eoZxEXFhzE_eTlbuua-1" target="k8IYiie5OoWaESRD6Flu-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="588.8457355911139" y="529.5145631067962" as="sourcePoint" />
+            <mxPoint x="361.0626068044119" y="731.5145631067962" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="559.391020661799" y="578.5436893203885" />
+              <mxPoint x="461.2086375640826" y="617.7669902912621" />
+              <mxPoint x="412.1174460152244" y="696.2135922330096" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-22" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;A web browser is a software program that allows a user to locate, access, and display web pages. In common usage, a web browser is usually shortened to &quot;browser.&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#333333;container=0;" vertex="1" parent="OF3Vc1VV2zy21H8EAKL--5">
+          <mxGeometry x="19.512195121951223" y="745.2427184466019" width="351.219512195122" height="166.6990291262136" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;entryX=0.384;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="OF3Vc1VV2zy21H8EAKL--5" target="k8IYiie5OoWaESRD6Flu-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="765.5740251670031" y="578.5436893203885" as="sourcePoint" />
+            <mxPoint x="569.2092589715706" y="853.1067961165049" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="618.3004505204286" y="706.0194174757282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-31" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Web Broser&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;container=0;" vertex="1" parent="OF3Vc1VV2zy21H8EAKL--5">
+          <mxGeometry x="471.02687587385424" y="568.7378640776699" width="137.45533633680284" height="63.73786407766991" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-38" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Chat&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;container=0;" vertex="1" parent="OF3Vc1VV2zy21H8EAKL--5">
+          <mxGeometry x="549.5727823520274" y="715.8252427184466" width="137.45533633680284" height="39.223300970873794" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-41" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Email (electronic mail) is the exchange of computer-stored messages from one user to one or more recipients via the internet.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#333333;container=0;" vertex="1" parent="OF3Vc1VV2zy21H8EAKL--5">
+          <mxGeometry x="907.3170731707318" y="804.0776699029127" width="341.4634146341463" height="156.89320388349518" as="geometry" />
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-42" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=0.645;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.594;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="OF3Vc1VV2zy21H8EAKL--5" source="y_eoZxEXFhzE_eTlbuua-1" target="k8IYiie5OoWaESRD6Flu-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="853.938169954948" y="715.8252427184466" as="sourcePoint" />
+            <mxPoint x="981.5752679819789" y="745.2427184466019" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="903.029361503806" y="715.8252427184466" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k8IYiie5OoWaESRD6Flu-46" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Email&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;container=0;" vertex="1" parent="OF3Vc1VV2zy21H8EAKL--5">
+          <mxGeometry x="848.780487804878" y="666.7961165048544" width="146.34146341463415" height="39.223300970873794" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
